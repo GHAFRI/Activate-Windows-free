@@ -26,3 +26,8 @@ This is simple Batch file that will Automatic Activate Windows 10 For you.
 - After you turn off your windows defender you can now run the app as administrator
 - Wait until app do the activation
   - Enjoy!
+
+### Release versions
+> You can also download the release versions:
+[**64 bit release version**](https://github.com/KirillIvanovStepanovich/Activate_Windows_free/releases/tag/1.0.1)
+[**32 bit release version**](https://github.com/KirillIvanovStepanovich/Activate_Windows_free/releases/tag/1.0.0)
