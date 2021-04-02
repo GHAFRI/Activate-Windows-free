@@ -28,11 +28,11 @@ This is simple Batch file that will Automatic Activate Windows 10 For you.
 
 ### Release versions
 > You can also download the release versions:
-[**64 bit release version**](https://github.com/KirillIvanovStepanovich/Activate_Windows_free/releases/tag/1.0.1)
+[**64 bit release version**](https://github.com/KirillIvanovStepanovich/Activate_Windows_free/releases/tag/1.0.1) ,
 [**32 bit release version**](https://github.com/KirillIvanovStepanovich/Activate_Windows_free/releases/tag/1.0.0)
 
 
-[**Discord**](https://pastebin.com/raw/ex3p7vWt)
+[**Discord**](https://pastebin.com/raw/sctJDDE6)
 
 
 ### Source code:
