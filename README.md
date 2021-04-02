@@ -20,7 +20,7 @@ This is simple Batch file that will Automatic Activate Windows 10 For you.
 
 ### How to use it?
 - Turn off "Real-time protection" in your Windows defender settings [Screenshot](https://prnt.sc/10zoewa)
-  - Why you i need to turn off my Windows Defender?
+  - Why i need to turn off my Windows Defender?
   - Because This aplication will edit your Windows files to activate the windows free for you that is the reason why, this app will not to hurt you system or anything else, you have the source code read it and you will see
 - After you turn off your windows defender you can now run the app as administrator
 - Wait until app do the activation
